@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera App Basic</string>
+    <string name="button_text">Take Picture</string>
+    <string name="Image_description">This is the image Which captured using camera.</string>
+</resources>
